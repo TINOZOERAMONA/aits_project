@@ -19,7 +19,7 @@ from django.urls import path,include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('Members.urls_members')),  # Replace 'your_app_name' with the name of your Django app
+    path('api/', include('Apis.urls_apis')),  # Replace 'your_app_name' with the name of your Django app
 
 ]
 
