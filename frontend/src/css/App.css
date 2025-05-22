@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800');
+*{
+  font-family: 'Fira Sans', sans-serif;
+}
+.home-container {
+  display: flex;
+  padding-top: 60px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #ffffff;
+  margin-left: 45%;
+}
+
+.hero-section {
+  max-width: 600px;
+  padding: 20px;
+}
+
+.auth-buttons {
+  margin-top: 20px;
+}
+
+.btn-home {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.signup-btn {
+  background-color: #007bff;
+  color: white;
+}
+
+.login-btn {
+  background-color: #28a745 !important;
+  color: white;
+}
+
+.login-btn:hover, .signup-btn:hover{
+  color: #ffffff;
+}
