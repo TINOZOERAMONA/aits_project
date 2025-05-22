@@ -11,8 +11,7 @@
 | [Ayesiga Calvin Rodney](https://github.com/creeper-byte) | 24/U/04101/PS       |
 | [Nabasirye Nicole](https://github.com/NicoleMariah186)      | 23/U/0946       |
 
-frontendurl = "https://aits-group-c.netlify.app/"
-backendurl = "https://rita004.pythonanywhere.com/admin"
+Link to deployed Project: "https://aits-group-c.netlify.app/"
 
 
  # AITS Project
